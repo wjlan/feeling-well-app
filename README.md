@@ -1,7 +1,20 @@
 # About This Project
 This is a full stack web application designed to help anyone who wants to keep track of their emotions and feelings, whether they're looking to improve their mental health or simply want to reflect on their experiences. It is an excellent tool for people who want to better understand themselves and their emotions, and it's also great for people who want to monitor their progress over time.
 
-Tech stacks:
+<img width="1439" alt="Screen Shot 2024-06-04 at 4 31 01 PM" src="https://github.com/wjlan/feeling-well-app/assets/59032164/634a79ff-b8cd-411a-bf8e-b051799e95ed">
+<img width="1439" alt="Screen Shot 2024-06-04 at 4 31 35 PM" src="https://github.com/wjlan/feeling-well-app/assets/59032164/604fbcd5-dd4c-4f8d-9c71-e7f1bac81188">
+
+
+## Features
+- Dashboard display
+- Sign up / Login to use personal dashboard
+- Select a word in Feeling Wheel for input
+- Type in for input
+- Generate word cloud in real time
+- Delete a word
+- Data Visulization in words chart
+
+## Tech stacks
 1. We created the Feeling Well web application using a combination of `Flask`, `SQLAlchemy`, and `PostgreSQL` for the backend and database, and `React JS Vanilla`,  `React D3`, `firebase authentication` for the front-end.
     
 2. We utilized Flask and SQLAlchemy to create the backend and handle database operations, such as creating, reading, deleting records. We also used PostgreSQL to store and manage the data entered by users.
